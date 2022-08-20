@@ -1,3 +1,3 @@
 public enum Colors {
-    BLUE, RED, DARKBLUE,PINK,BLACK;
+    BLUE, RED, DARKBLUE,PINK;
 }
